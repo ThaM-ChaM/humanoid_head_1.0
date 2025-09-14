@@ -1,0 +1,36 @@
+# Sequence 0
+begin
+  2000 5632 6400 4104 5331 4128 7456 
+  7151 7635 4627 4517 5475 4841 
+  5320 6353 4800 5408 3392 6425 
+  5771 4566 7568 5385 0 0 frame_0..23 # neutral smile
+repeat
+
+sub frame_0..23
+  23 servo
+  22 servo
+  21 servo
+  20 servo
+  19 servo
+  18 servo
+  17 servo
+  16 servo
+  15 servo
+  14 servo
+  13 servo
+  12 servo
+  11 servo
+  10 servo
+  9 servo
+  8 servo
+  7 servo
+  6 servo
+  5 servo
+  4 servo
+  3 servo
+  2 servo
+  1 servo
+  0 servo
+  delay
+  return
+
