@@ -5,7 +5,7 @@ An expressive humanoid robot head designed for receptionist applications, capabl
 Presented at the **IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2026)**, Genoa, Italy.
 
 <p align="center">
-  <img src="docs/images/robot_head.jpg" alt="Humanoid robot head with silicone skin" width="400"/>
+  <img src="kuweni.jpg" alt="Humanoid robot head with silicone skin" width="400"/>
 </p>
 
 ## Overview
